@@ -1,6 +1,5 @@
 
 
-wangmadelyn2-lang
 import java.util.Scanner;
 //Madelyn Wang
 //This program is a collection of methods that utilize loops to print out characters in rows
